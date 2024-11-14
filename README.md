@@ -12,3 +12,7 @@ to make compatible with the letest version of "@types/node" define it's version 
     "@types/node": "18.16.0"
 }
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> test/008_boot_process_of_angular_apps
